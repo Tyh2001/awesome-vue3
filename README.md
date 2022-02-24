@@ -2,7 +2,7 @@
 
 🎉 A curated list of awesome things related to vue3.
 
-## 资源
+## 官方资源
 
 - [vue3 中文文档](https://v3.cn.vuejs.org)
 - [vue3 新版文档（中文版）](https://staging-cn.vuejs.org)
@@ -20,6 +20,10 @@
 - [The Vue Point（Vue 观点）](https://blog.vuejs.org/)
 - [Vue SFC Playground](https://sfc.vuejs.org/)
 - [Vue 3 Template Explorer（视图 3 模板资源管理器）](https://vue-next-template-explorer.netlify.app/)
+- [Vue.js 新闻](https://news.vuejs.org/)
+- [T-shirt 商店](https://vue.threadless.com/)
+- [Vue 贴纸](https://www.smallsticker.com/product/vue)
+- [Vue 3 的 Vue 测试工具](https://test-utils.vuejs.org/)
 
 ## 组件库
 
@@ -32,3 +36,10 @@
 - [DataV](http://datav.jiaminghi.com/)
 
 ## 社区
+
+- [vuejs 组织](https://github.com/vuejs)
+- [Vue 文档官方中文翻译仓库](https://github.com/vuejs-translations/docs-zh-cn)
+
+## 其它平台官方账号
+
+- [vue 微博](https://weibo.com/u/5883366563)
