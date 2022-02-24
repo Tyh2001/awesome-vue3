@@ -4,7 +4,7 @@
 
 ## 资源
 
-- [vue3 中午文档](https://v3.cn.vuejs.org)
+- [vue3 中文文档](https://v3.cn.vuejs.org)
 - [vue3 新版文档（中文版）](https://staging-cn.vuejs.org)
 - [vue3 新版文档（英文版）](https://vuejs.org)
 - [Vue-template-explorer（模板转换器）](https://vue3js.cn/vue-template-explorer)
