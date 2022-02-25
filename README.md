@@ -1,3 +1,7 @@
+<p align="center">
+  <img height="260px" src="./images/logo.png">
+</p>
+
 # Awesome-vue3
 
 🎉 A curated list of awesome things related to vue3.
@@ -46,3 +50,24 @@
 
 - [vue 微博](https://weibo.com/u/5883366563)
 - [twitter](https://twitter.com/vuejs)
+
+## 博客文章
+
+- [vue3 基本知识](https://tianyuhao.cn/blog/vue3)
+
+## 视频教程
+
+- [手把手教你学 Vue3](https://space.bilibili.com/478692215/channel/seriesdetail?sid=473169)
+
+## 付费教程
+
+- [玩转 Vue 3 全家桶](https://time.geekbang.org/column/intro/100094401?tab=catalog)
+
+## vue3 项目
+
+- [tyh-ui](https://github.com/Tyh2001/tyh-ui)一个轻量级组件库，基于 vue3.0 版本，全面拥抱 vue3.0。
+
+## 百科
+
+- [百度百科](https://baike.baidu.com/item/Vue.js/19884851?fr=aladdin)
+- [维基百科](https://zh.wikipedia.org/zh-tw/Vue.js)
