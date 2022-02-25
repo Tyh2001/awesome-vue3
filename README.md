@@ -40,6 +40,8 @@
 - [Element3](https://e3.shengxinjing.cn/)
 - [Vant](https://youzan.github.io/vant/#/zh-CN/)
 - [DataV](http://datav.jiaminghi.com/)
+- [Equal](https://quatrochan.github.io/Equal/)
+- [iDux](https://idux.site/)
 
 ## 社区
 
