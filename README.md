@@ -65,7 +65,7 @@
 
 ## vue3 项目
 
-- [tyh-ui](https://github.com/Tyh2001/tyh-ui)一个轻量级组件库，基于 vue3.0 版本，全面拥抱 vue3.0。
+- [tyh-ui](https://github.com/Tyh2001/tyh-ui)
 
 ## 百科
 
