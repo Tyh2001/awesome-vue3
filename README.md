@@ -30,6 +30,7 @@
 - [Vue 3 的 Vue 测试工具](https://test-utils.vuejs.org/)
 - [Vue School](https://vueschool.io/)
 - [Vue Land](https://discord.com/invite/HBherRA)
+- [vue npm](https://www.npmjs.com/package/vue)
 
 ## 组件库
 
