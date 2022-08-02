@@ -34,6 +34,7 @@
 
 ## 组件库
 
+- [fighting-design](https://fighting.tianyuhao.cn/)
 - [tyh-ui](https://tianyuhao.cn/v3/)
 - [Naïve UI](https://www.naiveui.com/zh-CN/os-theme)
 - [Ant Design of Vue](https://www.antdv.com/docs/vue/introduce-cn/)
