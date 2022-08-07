@@ -4,7 +4,7 @@
 
 # Awesome-vue3
 
-🎉 A curated list of awesome things related to vue3.（与 vue3 相关的精彩事物策划清单。）
+🎉 与 vue3 相关的精彩事物策划清单。
 
 ## 官方资源
 
